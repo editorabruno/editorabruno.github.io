@@ -1,2 +1,2 @@
-# editorabruno.guthub.io
+# editorabruno.github.io
 Repository host
