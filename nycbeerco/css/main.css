@@ -1,0 +1,67 @@
+body {
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+}
+
+header li {
+	background-color: gold;
+	text-decoration: none;
+	list-style: none;
+	font-size: 1.5em;
+	display: inline-block;
+}
+
+header ul {
+	background-color: gold;
+	margin: 20px 20px 20px 20px;
+	padding: 20px 20px 20px 20px;
+	word-spacing: 3.75em;
+	letter-spacing: .125em;
+}
+
+a:link {
+	color: white;
+}
+
+a:visited {
+	color: white;
+}
+
+a:hover {
+	color: red;
+}
+
+a:active; {
+	color: gray;
+}
+
+
+header a {
+	text-decoration: none;
+}
+
+
+
+header {
+	text-align: center;
+}
+
+header h1 {
+	font-size: 5em;
+	word-spacing: .0625em;
+	letter-spacing: .1625em;
+	color: #000080; 
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+footer {
+	background-color: gold;
+	margin: 20px 20px 20px 20px;
+	padding: 20px 20px 20px 20px;
+	word-spacing: 3.75em;
+	letter-spacing: .125em;
+}
