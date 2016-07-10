@@ -15,6 +15,10 @@ p {
 	line-height: 1.5em;
 }
 
+.top a:link {
+	color: blue;
+}
+
 li {
   	background-color: gold;
   	font-family: 'Work Sans', sans-serif;
