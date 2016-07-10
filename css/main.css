@@ -1,27 +1,23 @@
 body {
 	font-size: 16px;
-	font-family: 'Space Mono', monospace;
 }
 
 h1 {
 	font-size: 3em;
+	font-family: 'Space Mono', monospace;
 }
 
 p {
-	font-size: 2em;
-}
-
-h1 p {
+	font-size: 1em;
 	font-family: 'Work Sans', sans-serif;
 }
 
-
-ul li a {
-  background-color: gold;
+ul li {
+  	background-color: gold;
 	text-decoration: none;
 	list-style: none;
 	font-size: 1.5em;
-  display: inline-block;
+  	display: inline-block;
 }
 
 a:link {
