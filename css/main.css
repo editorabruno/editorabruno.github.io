@@ -22,7 +22,6 @@ ul li {
   	display: inline-block;
   	text-align: center;
   	font-family: 'Work Sans', sans-serif;
-  	word-spacing: .0625em;
 }
 
 ul {
@@ -30,6 +29,7 @@ ul {
 	margin-top: 20px;
 	margin-bottom: 20px;
   	padding: 10px 10px 10px 10px;
+  	text-align: center;
 }
 
 a:link {
