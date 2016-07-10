@@ -15,10 +15,6 @@ p {
 	line-height: 1.5em;
 }
 
-.top {
-	color: blue;
-}
-
 li {
   	background-color: gold;
   	font-family: 'Work Sans', sans-serif;
@@ -27,6 +23,7 @@ li {
 	font-size: 1.5em;
   	display: inline-block;
   	text-align: center;
+  	padding: 10px 10px 10px 10px;
 }
 
 ul {
@@ -37,12 +34,13 @@ ul {
   	text-align: center;
 }
 
-h1 p a:link {
-	color: blue;
-}
 
 a {
 	text-decoration: none;
+}
+
+.p1 a:link {
+	color: blue;
 }
 
 a:link {
