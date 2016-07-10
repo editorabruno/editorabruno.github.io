@@ -3,6 +3,19 @@ body {
 	font-family: 'Space Mono', monospace;
 }
 
+h1 {
+	font-size: 3em;
+}
+
+p {
+	font-size: 2em;
+}
+
+h1 p {
+	font-family: 'Work Sans', sans-serif;
+}
+
+
 ul li a {
   background-color: gold;
 	text-decoration: none;
