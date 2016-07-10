@@ -16,7 +16,7 @@ p {
 }
 
 li {
-  	background-color: #00B2EE;;
+  	background-color: gold;
   	font-family: 'Work Sans', sans-serif;
 	text-decoration: none;
 	list-style: none;
@@ -27,7 +27,7 @@ li {
 }
 
 ul {
-	background-color: #00B2EE;;
+	background-color: gold;
 	margin-top: 20px;
 	margin-bottom: 20px;
   	padding: 10px 10px 10px 10px;
