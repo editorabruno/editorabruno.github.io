@@ -37,11 +37,9 @@ ul {
 
 a {
 	text-decoration: none;
-}
-
-a:link .p1 {
 	color: blue;
 }
+
 
 a:link {
 	color: white;
