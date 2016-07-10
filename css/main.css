@@ -12,6 +12,7 @@ h1 {
 p {
 	font-size: 1em;
 	font-family: 'Work Sans', sans-serif;
+	line-height: .5em;
 }
 
 li {
@@ -30,6 +31,10 @@ ul {
 	margin-bottom: 20px;
   	padding: 10px 10px 10px 10px;
   	text-align: center;
+}
+
+a {
+	text-decoration: none;
 }
 
 a:link {
