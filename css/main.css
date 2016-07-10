@@ -22,11 +22,13 @@ ul li {
   	display: inline-block;
   	text-align: center;
   	font-family: 'Work Sans', sans-serif;
+  	word-spacing: .0625em;
 }
 
 ul {
 	background-color: gold;
-	margin: 20px 20px 20px 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
   	padding: 10px 10px 10px 10px;
 }
 
