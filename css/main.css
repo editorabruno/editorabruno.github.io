@@ -39,7 +39,7 @@ a {
 	text-decoration: none;
 }
 
-.p1 a:link {
+a:link .p1 {
 	color: blue;
 }
 
