@@ -35,10 +35,18 @@ ul {
 }
 
 
-a {
+a:link {
 	text-decoration: none;
+	color: blue;
 }
 
+a:hover {
+	color: red;
+}
+
+a:active {
+	color: gray;
+}
 
 li a:link {
 	color: white;
