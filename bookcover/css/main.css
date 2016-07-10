@@ -1,0 +1,46 @@
+body {
+	margin: 100px 100px 100px 100px;
+    padding: 20px 20px 20px 20px;
+    border: 60px solid gray;
+	background: white;
+	text-align: center;
+	font-family: 'Taviraj', serif;
+	font-size: 100px;
+	color: black;
+}
+
+
+.theBorder {
+	border: 20px solid gray;
+	padding: 30px 30px 30px 30px;
+    
+}
+
+hr {
+	width: 700px;
+	height: 5px;
+	background-color: black;
+	color: black;
+	
+}
+
+
+.theType {
+font-size: 100px;
+display: block;
+line-height: 1.5;
+
+
+}
+
+.theAuthor {
+	font-size: 75px;
+	line-height: 1px;
+
+}
+
+.theClassics {
+	font-family: 'IM Fell Double Pica', serif;
+	font-size: 60px;
+	line-height: -10px;
+}
