@@ -14,14 +14,14 @@ p {
 	font-family: 'Work Sans', sans-serif;
 }
 
-ul li {
+li {
   	background-color: gold;
+  	font-family: 'Work Sans', sans-serif;
 	text-decoration: none;
 	list-style: none;
 	font-size: 1.5em;
   	display: inline-block;
   	text-align: center;
-  	font-family: 'Work Sans', sans-serif;
 }
 
 ul {
@@ -30,7 +30,6 @@ ul {
 	margin-bottom: 20px;
   	padding: 10px 10px 10px 10px;
   	text-align: center;
-  	text-decoration: none;
 }
 
 a:link {
