@@ -37,22 +37,21 @@ ul {
 
 a {
 	text-decoration: none;
-	color: blue;
 }
 
 
-a:link {
+li a:link {
 	color: white;
 }
 
-a:visited {
+li a:visited {
 	color: white;
 }
 
-a:hover {
+li a:hover {
 	color: red;
 }
 
-a:active; {
+li a:active; {
 	color: gray;
 }
