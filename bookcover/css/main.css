@@ -28,14 +28,14 @@ hr {
 .theType {
 font-size: 130px;
 display: block;
-line-height: 1.5;
+line-height: 2;
 
 
 }
 
 .theAuthor {
 	font-size: 100px;
-	line-height: 1px;
+	line-height: 1.5px;
 
 }
 
