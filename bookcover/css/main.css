@@ -17,7 +17,7 @@ body {
 }
 
 hr {
-	width: 800px;
+	width: 900px;
 	height: 5px;
 	background-color: black;
 	color: black;
@@ -28,7 +28,6 @@ hr {
 .theType {
 font-size: 130px;
 display: block;
-letter-spacing: 2px;
 line-height: 1px;
 
 
