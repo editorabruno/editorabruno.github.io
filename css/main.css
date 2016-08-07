@@ -2,8 +2,45 @@
 
 section {
   margin: 20px 20px 20px 20px;
-  padding: 30px 30px 30px 30px;
-  /*background-color: #d3d3d3;*/
+  padding: 10px 10px 10px 10px;
+}
+
+.win {
+  height: 270px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: 2px solid white;
+}
+
+.win-02 {
+  background-image: url(../images/skyline.JPG);
+  /*add hover color*/
+}
+
+.win-03 {
+  background-image: url(../images/bruno_nyc_crop.jpg);
+  /*add hover color*/
+}
+
+.win-04 {
+  background-image: url(../images/siyankees.jpg);
+  /*add hover color*/
+}
+
+.win-05 {
+  background-image: url(../images/brooklyn_bridge.jpg);
+  /*add hover color*/
+}
+
+.win-06 {
+  background-image: url(../images/startup.jpg);
+  /*add hover color*/
+}
+
+.win-07 {
+  background-image: url(../images/bruins_game_3.jpg);
+  /*add hover color*/
 }
 
 .center {
@@ -26,10 +63,9 @@ footer a:hover {
 
 .imgBox { 
   width:190px;
-  height:190px;
+  height:270px;
   opacity: .7;
   filter: alpha(opacity=100);
-  background: url(http://www.corelangs.com/css/box/img/duck.png) no-repeat;
 }
 
 /*.imgBox:hover {
@@ -42,6 +78,7 @@ footer a:hover {
 }
 
 .imgBox:hover .imageBoxDes {
+  text-align: left;
   display: inline-block;
   padding: 20px 20px 20px 20px;
   background-color: black;
@@ -53,14 +90,13 @@ footer a:hover {
   color: white;
 }
 
-#h1 {
+.h1 {
   float: right;
-  margin-top: auto;
 }
 
 .head {
-  margin: 20px 20px 20px 20px;
-  padding: 30px 30px 30px 30px;
+  margin: 10px 10px 10px 10px;
+  padding: 20px 20px 20px 20px;
 }
 
 
@@ -88,11 +124,4 @@ hr {
 .thumbnail {
   width: 7rem;
   border-radius: 4px;
-}
-
-footer {
-  text-align: center;
-  background-color: gray;
-  margin: 20px 20px 20px 20px;
-  padding: 30px 30px 30px 30px;
 }
